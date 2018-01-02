@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Executable: devicetypes/jordan-cook/garagedoorhandler.src
+
+Name: garage.groovy
+SHA1-Digest: 902ec99c197f5c56c89441ccd1f7b9a79b2ea3ce
